@@ -6,6 +6,6 @@ The [Backpack DevTools](https://github.com/Laravel-Backpack/DevTools) repo is cl
 
 - If you've discovered a bug, please open an issue here.
 - If you want to suggest a feature, please open an issue here. 
-- If you want to submit a PR, please open an issue here detailing it. If we agree to it, we'll add you to the code repo.
+- If you want to submit a PR, please detailing it here first. If we agree to it, we'll add you to the code repo.
 
 **Why does this exist?** Since the code repo is closed-source and Github charges per contributor per month... unfortunately... we can't give access to everybody who purchases it... it would be very _very_ costly. So keeping the issues and code separate is the best we can do, for the time being.
