@@ -12,10 +12,6 @@ labels: Feature Request
 
 ??
 
-### Have you already implemented a prototype solution, for your own project?
-
-??
-
-### Do you see this as a core feature or an add-on?
+### How often do you see yourself using this feature, if implemented?
 
 ??
